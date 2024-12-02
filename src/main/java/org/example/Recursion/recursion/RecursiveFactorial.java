@@ -1,4 +1,4 @@
-package org.example.Recursion;
+package org.example.Recursion.recursion;
 
 /**
  * The RecursiveFactorial class contains a method to calculate the factorial of a number using recursion.

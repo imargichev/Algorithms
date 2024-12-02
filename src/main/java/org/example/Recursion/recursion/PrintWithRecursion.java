@@ -1,4 +1,4 @@
-package org.example.Recursion;
+package org.example.Recursion.recursion;
 
 /**
  * The PrintWithRecursion class contains a method to print patterns using recursion.

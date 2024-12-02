@@ -1,4 +1,4 @@
-package org.example.Recursion;
+package org.example.Recursion.recursion;
 
 public class EightQueensRecursion {
     public static void main(String[] args) {
