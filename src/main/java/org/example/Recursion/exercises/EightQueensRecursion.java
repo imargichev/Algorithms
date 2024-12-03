@@ -9,10 +9,10 @@ public class EightQueensRecursion {
 
     private static final int SIZE = 8;
     private static int[][] board = new int[SIZE][SIZE];
-    static HashSet<Integer> attackedRows = new HashSet<>();
-    static HashSet<Integer> attackedCols = new HashSet<>();
-    static HashSet<Integer> attackedDiagonals1 = new HashSet<>(); // For \ diagonals
-    static HashSet<Integer> attackedDiagonals2 = new HashSet<>(); // For / diagonals
+    private static HashSet<Integer> attackedRows = new HashSet<>();
+    private static HashSet<Integer> attackedCols = new HashSet<>();
+    private static HashSet<Integer> attackedDiagonals1 = new HashSet<>(); // For \ diagonals
+    private static HashSet<Integer> attackedDiagonals2 = new HashSet<>(); // For / diagonals
 
     /**
      * Solves the Eight Queens problem by placing queens on the board row by row.
