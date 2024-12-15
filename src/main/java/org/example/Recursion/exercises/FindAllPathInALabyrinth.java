@@ -36,7 +36,7 @@ public class FindAllPathInALabyrinth {
             solve(row, col + 1, 'R');
 
             labyrinth[row][col] = '_';
-            path.remove(path.size() - 1);
+            path.removeLast();
         }
     }
 
