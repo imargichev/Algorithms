@@ -1,4 +1,4 @@
-package org.example.Recursion.sortingAndSearching;
+package org.example.Recursion.SortingAndSearching;
 
 /**
  * The MergeSort class contains methods to perform the MergeSort algorithm on an array of integers.

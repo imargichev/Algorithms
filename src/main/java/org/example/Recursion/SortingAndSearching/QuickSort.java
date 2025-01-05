@@ -1,4 +1,4 @@
-package org.example.Recursion.sortingAndSearching;
+package org.example.Recursion.SortingAndSearching;
 
 /**
  * The QuickSort class contains methods to perform the QuickSort algorithm on an array of integers.

@@ -1,4 +1,4 @@
-package org.example.Recursion.sortingAndSearching;
+package org.example.Recursion.SortingAndSearching;
 
 /**
  * The CountingSort class contains methods to perform the CountingSort algorithm on an array of integers.

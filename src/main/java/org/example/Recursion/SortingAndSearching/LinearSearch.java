@@ -1,4 +1,4 @@
-package org.example.Recursion.sortingAndSearching;
+package org.example.Recursion.SortingAndSearching;
 
 /**
  * The LinearSearch class contains methods to perform the Linear Search algorithm on an array of integers.

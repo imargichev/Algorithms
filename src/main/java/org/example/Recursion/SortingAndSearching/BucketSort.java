@@ -1,4 +1,4 @@
-package org.example.Recursion.sortingAndSearching;
+package org.example.Recursion.SortingAndSearching;
 
 /**
  * The BucketSort class contains methods to perform the BucketSort algorithm on an array of integers.

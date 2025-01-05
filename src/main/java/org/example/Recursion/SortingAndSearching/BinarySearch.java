@@ -1,4 +1,4 @@
-package org.example.Recursion.sortingAndSearching;
+package org.example.Recursion.SortingAndSearching;
 
 /**
  * The BinarySearch class contains methods to perform the Binary Search algorithm on an array of integers.

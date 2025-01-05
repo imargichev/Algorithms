@@ -1,4 +1,4 @@
-package org.example.Recursion.sortingAndSearching;
+package org.example.Recursion.SortingAndSearching;
 
 /**
  * The InterpolationSearch class contains methods to perform the Interpolation Search algorithm on an array of integers.

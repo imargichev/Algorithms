@@ -1,4 +1,4 @@
-package org.example.Recursion.recursion;
+package org.example.Recursion.Recursion;
 
 /**
  * The Program class contains a method to calculate the sum of an array of integers using recursion.

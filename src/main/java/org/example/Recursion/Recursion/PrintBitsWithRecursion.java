@@ -1,4 +1,4 @@
-package org.example.Recursion.recursion;
+package org.example.Recursion.Recursion;
 
 import java.util.Arrays;
 import java.util.stream.Collectors;

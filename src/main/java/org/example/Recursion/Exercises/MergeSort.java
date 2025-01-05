@@ -1,4 +1,4 @@
-package org.example.Recursion.exercises;
+package org.example.Recursion.Exercises;
 
 public class MergeSort {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package org.example.Recursion.sortingAndSearching;
+package org.example.Recursion.SortingAndSearching;
 
 /**
  * The HeapSort class contains methods to perform the HeapSort algorithm on an array of integers.

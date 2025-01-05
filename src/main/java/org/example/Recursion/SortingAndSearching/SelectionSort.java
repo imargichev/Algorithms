@@ -1,4 +1,4 @@
-package org.example.Recursion.sortingAndSearching;
+package org.example.Recursion.SortingAndSearching;
 
 /**
  * The SelectionSort class contains methods to perform the SelectionSort algorithm on an array of integers.

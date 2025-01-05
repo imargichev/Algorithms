@@ -1,4 +1,4 @@
-package org.example.Recursion.sortingAndSearching;
+package org.example.Recursion.SortingAndSearching;
 
 /**
  * The BubbleSort class contains methods to perform the BubbleSort algorithm on an array of integers.

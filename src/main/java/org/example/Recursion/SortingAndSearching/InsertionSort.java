@@ -1,4 +1,4 @@
-package org.example.Recursion.sortingAndSearching;
+package org.example.Recursion.SortingAndSearching;
 
 /**
  * The InsertionSort class contains methods to perform the InsertionSort algorithm on an array of integers.
